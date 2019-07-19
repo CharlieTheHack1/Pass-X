@@ -2,7 +2,7 @@
 
 By this script you will able to make your own & best password. 
 
-FOLLOW THIS IN TERMUX TO RUN THIS SCRIPT
+print ("FOLLOW THIS IN TERMUX TO RUN THIS SCRIPT")
 
 $ apt-get update && apt-get upgrade
 $ git clone https://github.com/CharlieTheHack1/Pass-X.git
