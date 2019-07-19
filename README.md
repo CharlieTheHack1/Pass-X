@@ -1,5 +1,19 @@
 # Pass-X
 
+By this script you will able to make your own & best password. 
+
+FOLLOW THIS IN TERMUX TO RUN THIS SCRIPT
+
+$ apt-get update && apt-get upgrade
+$ git clone https://github.com/CharlieTheHack1/Pass-X.git
+$ ls
+$ cd Pass-X
+$ ls 
+$ chmod +x Pass-X.py
+$ ls
+$ python2 Pass-X.py
 
 
-![](Images/storage/DCMI/Screenshots/IMG_20190719_135947.jpg)
+
+Enjoyed this !!!
+Thanks for your love & support
